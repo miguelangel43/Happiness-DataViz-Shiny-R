@@ -1,0 +1,13 @@
+name: happinessapp
+title:
+username:
+account: teampcm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5491479
+bundleId: 5498639
+url: https://teampcm.shinyapps.io/happinessapp/
+when: 1642943019.08823
+lastSyncTime: 1642943019.08825
+asMultiple: FALSE
+asStatic: FALSE
